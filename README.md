@@ -9,11 +9,11 @@ This template shows:
  - Handle event
  - Separate game logic from display logic
  - Render a surface
- - Specify a "Frame per second" render
+ - Specify a "Frame Per Second" render
  
- The features hilited are:
+ The features are:
  - Load an image
- - Display background Color
+ - Display background color
  - Display an image
  - Display some text
- - Handle quit Event
+ - Handle "quit" event
