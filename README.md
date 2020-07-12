@@ -2,6 +2,8 @@
 
 This project contains a simple template for pygame developement.
 
+![result image](pygame_template.png)
+
 This template shows:
  - How to initialize a project
  - Handle event
