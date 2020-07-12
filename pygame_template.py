@@ -5,8 +5,8 @@ import pygame
 from pygame.locals import *
 
 class App:
-    windowWidth = 1152
-    windowHeight = 768
+    windowWidth = 800
+    windowHeight = 600
     FPS = 35
 
     #Color Definitions
